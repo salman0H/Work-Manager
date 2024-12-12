@@ -1,0 +1,3 @@
+D:/3. My Project/C++/WorkBook Class/Worker/cmake-build-debug/CMakeFiles/Worker.dir
+D:/3. My Project/C++/WorkBook Class/Worker/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/3. My Project/C++/WorkBook Class/Worker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
